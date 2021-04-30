@@ -1,6 +1,6 @@
 # Ensemble Models
 <p align="center">
-  <img width="460" height="300" src="https://miro.medium.com/max/600/1*ZzXwFueV-Beh9MapLgZ5QA.png">
+  <img width="auto" height="auto" src="https://miro.medium.com/max/600/1*ZzXwFueV-Beh9MapLgZ5QA.png">
 </p>
 
 In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone.
